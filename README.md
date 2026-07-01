@@ -1,68 +1,68 @@
-# 🤖 AI Nexus - Responsive Landing Page
+# 🌡️ Temperature Converter
 
-A modern and responsive AI business landing page built using **HTML5** and **CSS3**. This project showcases a clean UI design for an Artificial Intelligence company with multiple sections including Hero, Features, Services, About, and Statistics.
-
----
-
-## 📌 Project Overview
-
-AI Nexus is a simple, elegant, and fully responsive landing page designed to present AI-powered business solutions. It demonstrates modern web design principles using only HTML and CSS without any frameworks or JavaScript.
+A simple and responsive **Temperature Converter** built using **HTML, CSS, and JavaScript**. This web application allows users to convert temperatures between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)** with real-time validation and an easy-to-use interface.
 
 ---
 
-## 🚀 Features
+## 📌 Features
 
-- Responsive Navigation Bar
-- Modern Hero Section
-- Feature Cards
-- AI Services Section
-- About Section
-- Statistics Section
-- Hover Animations
-- Clean and Organized Code
-- Mobile-Friendly Layout
+- 🌡 Convert temperatures between:
+  - Celsius → Fahrenheit & Kelvin
+  - Fahrenheit → Celsius & Kelvin
+  - Kelvin → Celsius & Fahrenheit
+- ✅ Input validation to ensure only numeric values are accepted.
+- 🎨 Clean and responsive user interface.
+- ⚡ Fast conversion using JavaScript.
+- 📱 Mobile-friendly design.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Gradients
-- CSS Transitions
+- **HTML5** – Structure of the webpage
+- **CSS3** – Styling and responsive design
+- **JavaScript (ES6)** – Temperature conversion logic and input validation
 
 ---
 
-## 🎨 Sections Included
+## 📖 How to Use
 
-### 🏠 Home
-A beautiful hero section introducing the AI platform.
+1. Enter a temperature value in the input field.
+2. Select the temperature unit (Celsius, Fahrenheit, or Kelvin).
+3. Click the **Convert** button.
+4. The converted temperature(s) will be displayed instantly.
 
-### 🤖 Features
-- AI Chatbot
-- Automation
-- Analytics
-- Security
+---
 
-### 💡 Services
-- Machine Learning
-- Natural Language Processing
-- Computer Vision
-- AI Consulting
+## 🧮 Conversion Formulas
 
-### 📖 About
-Brief introduction about AI Nexus and its mission.
+### Celsius to Fahrenheit
 
-### 📊 Statistics
-Displays company achievements such as:
-- 500+ Clients
-- 99% Accuracy
-- 24/7 Support
-- 50+ AI Experts
+```
+°F = (°C × 9/5) + 32
+```
 
+### Fahrenheit to Celsius
+
+```
+°C = (°F − 32) × 5/9
+```
+
+### Celsius to Kelvin
+
+```
+K = °C + 273.15
+```
+
+### Kelvin to Celsius
+
+```
+°C = K − 273.15
+```
 ---
 
 ## 👨‍💻 Author
 
-**Sai Ram**
+**Sai**
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
